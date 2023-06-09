@@ -95,8 +95,8 @@ public class Land extends JFrame {
                         }
                     });
                 } else {
-//                    tip = new JLabel("登陆失败,用户名或密码不正确", SwingConstants.CENTER);
-                    tip = new JLabel("小周,你终于写完了可离散电磁高数怎么办呢", SwingConstants.CENTER);
+                    tip = new JLabel("登陆失败,用户名或密码不正确", SwingConstants.CENTER);
+//                    tip = new JLabel("小周,你终于写完了可离散电磁高数怎么办呢", SwingConstants.CENTER);
                     Font f1 = new Font("宋体",Font.BOLD,18);
                     tip.setFont(f1);
                     tip.setBounds(20,50,400,50);
